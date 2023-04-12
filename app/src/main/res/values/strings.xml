@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prova</string>
+    <string name="dia">Dia</string>
+    <string name="mes">Mes</string>
+    <string name="descobrir">Descobrir</string>
+    <string name="todo">TODO</string>
+    <string name="qual_seu_signo">Qual seu signo?</string>
+</resources>
